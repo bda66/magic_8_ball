@@ -1,5 +1,5 @@
 # Magic 8 ball
-[Magic 8 ball](https://ru.wikipedia.org/wiki/Magic_8_ball) - cссылка на википедию
+[Magic 8 ball](https://ru.wikipedia.org/wiki/Magic_8_ball) - сcылка на википедию
 
 ### Использование:
 
